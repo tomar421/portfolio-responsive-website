@@ -181,7 +181,8 @@ img {
 /*===== HOME =====*/
 .home {
   position: relative;
-  /* display: flex; */
+  /* display: flex;
+  flex-direction: column; */
   row-gap: 5rem;
   padding: 4rem 0 5rem;
 }
